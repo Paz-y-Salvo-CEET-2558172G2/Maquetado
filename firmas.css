@@ -1,0 +1,15 @@
+p.fant{
+font-family: fantasy;
+font-size: x-large;
+color: rgb(15, 15, 20);
+text-shadow: 7px 4px 5px;
+}
+.fondo{
+    background-size: cover;
+    background-position: 0px -200px;
+}
+p.text {
+    color: black;
+
+}
+

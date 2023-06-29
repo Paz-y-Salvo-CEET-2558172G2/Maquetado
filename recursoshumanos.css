@@ -1,0 +1,35 @@
+.img1 {
+    width: 10%;
+    float: left;
+    display: flex;
+   }
+   
+   h1{
+    text-align: center;
+    color: red;
+    
+   }
+   
+   a{
+       background-color: white;
+       float: right;
+       word-spacing: 10%;
+   }
+   .fondo {
+       background-size: cover;
+       background-position: 0px -200px;
+       
+   }
+   .BOTON1{
+       width: 30%;
+       height: 3rem;
+   }
+   
+   a{
+       font-size: large;
+       position: absolute;
+       margin-left: -71px
+   }
+   
+   
+   
